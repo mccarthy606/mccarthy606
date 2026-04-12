@@ -53,7 +53,6 @@ I design and build **AI-driven platforms** — from intelligent assistants for c
 - **AI Assistants** — Building intelligent agents for car dealerships
 - **Automotive Marketplaces** — P2P classic car rental, racing experiences
 - **Legal AI** — Automated traffic fine appeals platform
-- **Content** — YouTube channels MORI & BAZA
 
 ---
 
