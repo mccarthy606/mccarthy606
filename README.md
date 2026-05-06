@@ -1,88 +1,95 @@
 <div align="center">
 
+<a href="https://github.com/mccarthy606/claude-operator-stack">
+  <img src="https://raw.githubusercontent.com/mccarthy606/claude-operator-stack/main/assets/social-preview.png" alt="Claude Operator Stack" width="100%"/>
+</a>
+
 # Hey, I'm Dmitry McCarthy
 
-**AI Engineer & Entrepreneur**
+**Solo founder. 7 AI products in 4 months. Buenos Aires.**
 
-Building AI-powered products for the automotive industry
+I started writing code in January 2026 with Cursor and Claude.
+Four months later: 3 live sites, 4 SaaS codebases, 1 YouTube channel,
+zero team, zero funding, one stack.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mccarthy606-181717?style=flat-square&logo=github)](https://github.com/mccarthy606)
-[![Location](https://img.shields.io/badge/Based_in-Argentina-blue?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/mccarthy606)
-
-</div>
-
----
-
-### What I Do
-
-I design and build **AI-driven platforms** — from intelligent assistants for car dealerships to P2P rental marketplaces and legal automation tools. I ship fast, iterate often, and let AI handle the heavy lifting.
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI & Cloud**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+[![Location](https://img.shields.io/badge/Based_in-Buenos_Aires-blue?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/mccarthy606)
+[![Followers](https://img.shields.io/github/followers/mccarthy606?style=flat-square&logo=github&label=Follow)](https://github.com/mccarthy606)
+[![Stack](https://img.shields.io/badge/Stack-Claude_Code_+_Obsidian_+_graphify-7c3aed?style=flat-square)](https://github.com/mccarthy606/claude-operator-stack)
 
 </div>
 
 ---
 
-### Current Focus
+## Latest drop — Claude Operator Stack
 
-- **AI Assistants** — Building intelligent agents for car dealerships
-- **Automotive Marketplaces** — P2P classic car rental, racing experiences
-- **Legal AI** — Automated traffic fine appeals platform
+The curator's toolkit and operator playbook I wished existed when I started.
+4 core components + 2 opt-in extensions. Ships a 12-recipe cookbook, 6 own
+SKILL.md packages, 6 slash-commands, 2 scaffolds, 4 archetype install paths,
+an npm CLI, an e2e integration suite, 4 long-form guides.
 
----
+[![npm](https://img.shields.io/npm/v/claude-operator-stack?style=for-the-badge&logo=npm&color=cb3837&label=claude-operator-stack)](https://www.npmjs.com/package/claude-operator-stack)
+[![Stars](https://img.shields.io/github/stars/mccarthy606/claude-operator-stack?style=for-the-badge&logo=github&color=181717)](https://github.com/mccarthy606/claude-operator-stack)
+[![License](https://img.shields.io/github/license/mccarthy606/claude-operator-stack?style=for-the-badge&color=22c55e)](https://github.com/mccarthy606/claude-operator-stack/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/mccarthy606/claude-operator-stack?style=for-the-badge&color=22d3ee)](https://github.com/mccarthy606/claude-operator-stack/commits/main)
 
-### GitHub Stats
+```bash
+npx claude-operator-stack init
+```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mccarthy606&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccarthy606&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mccarthy606&theme=github-dark-blue&hide_border=true" width="700" />
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mccarthy606&theme=github-compact&hide_border=true&area=true" width="700" />
-
-</div>
+→ **[Read the README](https://github.com/mccarthy606/claude-operator-stack)** · **[v1.0.0 release notes](https://github.com/mccarthy606/claude-operator-stack/releases/tag/v1.0.0)** · **[npm package](https://www.npmjs.com/package/claude-operator-stack)**
 
 ---
 
+## How I work
+
+**Operator, not engineer.** I treat Claude Code as the loop that ties Stripe,
+WhatsApp, Supabase, Sentry, GA4, and a content pipeline together — not as a chat
+companion. Most of what's in the stack is other people's work, credited where
+used. What's mine is the glue: the install path, the workflows, the case studies.
+
+**One operator. Sequential focus.** Two products get the week, others wait.
+[Parallel agents are a research pattern, not a product pattern.](https://github.com/mccarthy606/claude-operator-stack/blob/main/workflows/parallel-projects.md)
+
+**Brain in `~/Brain`.** Every project has a single Obsidian note that Claude
+reads at session start. Cross-project memory is a graphify knowledge graph.
+
+---
+
+## Stack I run from
+
+| Layer            | Component                                                                                                  |
+|------------------|------------------------------------------------------------------------------------------------------------|
+| Orchestration    | [Claude Code](https://www.anthropic.com/claude-code)                                                       |
+| Second brain     | [Obsidian](https://obsidian.md)                                                                            |
+| Knowledge graph  | graphify                                                                                                   |
+| UI generation    | [Frontend-Design](https://github.com/anthropics/claude-plugins-official)                                   |
+| Skills (opt-in)  | [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) by [@affaan-m](https://github.com/affaan-m) |
+| SEO + Ads (opt-in) | [Toprank](https://github.com/nowork-studio/toprank) by nowork-studio                                     |
+
+Plus a curated [MCP set](https://github.com/mccarthy606/claude-operator-stack/blob/main/stack/mcp-servers.md):
+GitHub, Supabase, Cloudflare, Vercel, Railway, Exa, Firecrawl, Context7, Playwright.
+
+Languages day-to-day: **TypeScript**, **Python**, **Bash**, **Markdown**.
+Front: **Next.js + Supabase + Sentry + GA4**. Back: **FastAPI + Docker + Postgres**.
+
+---
+
+## What's in flight
+
+- **Solo Stack v1.1** — community-driven. PT-BR / TR / ZH / JA translations open as good-first-issues; Windows native installer; more cookbook recipes drawn from real shipping work.
+- **Operator profile #5** — if your archetype doesn't fit the four shipped ones, [tell me](https://github.com/mccarthy606/claude-operator-stack/discussions).
+- A handful of unannounced AI products in pre-revenue. They land on the [case studies page](https://github.com/mccarthy606/claude-operator-stack/tree/main/case-studies) once they ship.
+
+---
+
+## Connect
+
+- **Repo + roadmap:** [claude-operator-stack](https://github.com/mccarthy606/claude-operator-stack)
+- **Discussions:** [github.com/mccarthy606/claude-operator-stack/discussions](https://github.com/mccarthy606/claude-operator-stack/discussions)
+- **Issues / PRs:** open — [`good-first-issue`](https://github.com/mccarthy606/claude-operator-stack/issues?q=is:issue+is:open+label:%22good+first+issue%22) labels for easy contributions
+
+---
+
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mccarthy606&style=flat-square&color=blue" />
-
-*Shipping code, one commit at a time.*
-
+<sub>This profile is the storefront. The stack is the product.</sub>
 </div>
